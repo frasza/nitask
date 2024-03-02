@@ -13,5 +13,16 @@
     "nuxt": "^3.10.3",
     "vue": "^3.4.19",
     "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.6.4",
+    "@nuxt/fonts": "^0.0.1",
+    "@nuxt/ui": "^2.14.1",
+    "@vueuse/nuxt": "^10.9.0",
+    "better-sqlite3": "^9.4.3",
+    "eslint": "^8.57.0",
+    "nuxt-auth-utils": "^0.0.20",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.11"
   }
 }
